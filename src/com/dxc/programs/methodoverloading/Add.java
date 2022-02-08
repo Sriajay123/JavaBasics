@@ -1,5 +1,5 @@
 package com.dxc.programs.methodoverloading;
-// overloading
+//  method overloading
 public class Add {
     int a,b;
     public void addition(int a,int b)
