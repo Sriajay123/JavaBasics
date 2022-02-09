@@ -25,7 +25,7 @@ public class Decisonswitch {
                  System.out.println("u  is vowel");
                  break;
              default:
-                 System.out.println( "is consonant");
+                 System.out.println( ch + "is consonant");
                  break;
 
          }
