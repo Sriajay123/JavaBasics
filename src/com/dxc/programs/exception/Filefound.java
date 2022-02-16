@@ -6,7 +6,7 @@ import java.io.FileReader;
 
 public class Filefound {
     public static void main(String[] args) {
-        try {
+         try {
             File f = new File("c://dxc.txt");
             FileReader freader = new FileReader(f);
         }
